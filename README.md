@@ -25,7 +25,7 @@ Desenvolvo com agentes de IA especializados (backend, frontend, testes, seguran�
 
 ## Sobre o código
 
-Os repositórios da CapixAI são privados por se tratar de produto comercial. O gráfico de contribuições acima mostra a atividade neles. Mostro o sistema funcionando e converso sobre as decisões de arquitetura numa entrevista ou demonstração.
+Os repositórios da CapixAI são privados por se tratar de produto comercial. O gráfico de contribuições abaixo mostra a atividade neles. Mostro o sistema funcionando e converso sobre as decisões de arquitetura numa entrevista ou demonstração.
 
 ## Contato
 
